@@ -1,7 +1,7 @@
-# Flight Radar
+# Dinamik Not Alma ve Harita Entegrasyon Uygulaması
  
 
-Bu harika projede, kullanıcılara Güney Avrupa üzerinde uçan uçakların konumlarını ve rotalarını canlı olarak takip etme olanağı sunuyorum. Ayrıca, kuyruk kodu, enlem, boylam ve rota gibi uçuş ayrıntılarını Liste Sayfasında listeliyorum. JS'nin 'setInterval' özelliğiyle gerçek zamanlı verilerle çalıştım.
+Bu uygulama, JavaScript ve Leaflet harita kütüphanesi kullanılarak oluşturulmuştur. Bu projede dinamik harita entegrasyonu, yerel depolama kullanımı ve kategori ve tarih özelleştirmesi öne çıkmaktadır. Harita tabanlı uygulamalar ve veri yönetimi konusunda bilgi birikimini derinleştirmeye olanak tanır.
 
 ##  Ekran Kaydı
 Projenin nasıl göründüğüne dair bir fikir edinmek için aşağıdaki gif'e göz atabilirsiniz
