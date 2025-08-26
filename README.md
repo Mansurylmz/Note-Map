@@ -1,6 +1,6 @@
 # Note Keeper 
 
-Kullanıcılar bu uygulama ile hatırlatma notları alabiliyor, ihtiyaç duyduklarında notlarını güncelleyebiliyor veya silebiliyorlar.
+Bu harika projede, kullanıcılara Güney Avrupa üzerinde uçan uçakların konumlarını ve rotalarını canlı olarak takip etme olanağı sunuyorum. Ayrıca, kuyruk kodu, enlem, boylam ve rota gibi uçuş ayrıntılarını Liste Sayfasında listeliyorum. JS'nin 'setInterval' özelliğiyle gerçek zamanlı verilerle çalıştım.
 
 ##  Ekran Kaydı
 Projenin nasıl göründüğüne dair bir fikir edinmek için aşağıdaki gif'e göz atabilirsiniz
