@@ -1,4 +1,5 @@
-# Note Keeper 
+# Flight Radar
+ 
 
 Bu harika projede, kullanıcılara Güney Avrupa üzerinde uçan uçakların konumlarını ve rotalarını canlı olarak takip etme olanağı sunuyorum. Ayrıca, kuyruk kodu, enlem, boylam ve rota gibi uçuş ayrıntılarını Liste Sayfasında listeliyorum. JS'nin 'setInterval' özelliğiyle gerçek zamanlı verilerle çalıştım.
 
